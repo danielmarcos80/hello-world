@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hello
+I live on Earth.
+Looking forward in coding.
